@@ -1,0 +1,23 @@
+.container__secondary-card {
+    width: 700px;
+    margin-bottom: 15px;
+
+}
+.secondary-card {
+    display: flex;
+    flex-direction: row;
+} 
+.secondary-card__img > img {
+    width: 200px;
+    min-width: 200px;
+    margin-right: 20px;
+}
+.secondary-card__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondary-card__separator {
+    margin-top: 10px;
+}
